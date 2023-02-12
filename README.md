@@ -1,6 +1,6 @@
 # Project Title
 
-NIKE MIMIC PAGES
+NIKE PAGES MIMIC DESIGN
 
 
 ## About Project
