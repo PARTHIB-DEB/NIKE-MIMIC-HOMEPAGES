@@ -1,0 +1,207 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@media only screen and (min-width:500px) and (max-width:1275px) {
+    
+    header{
+        height: 11.9rem;
+        width: 81rem;
+    }
+    
+}
+
+@media only screen and (min-width:1241px) and (max-width:1268px) {
+    
+    header{
+        width: 86rem;
+    }
+    
+}
+
+@media only screen and (min-width:1220px) and (max-width:1240px) {
+    
+    header{
+        width: 80rem;
+    }
+
+    #inside-box {
+        font-size: large;
+    }
+
+    #largesign{
+        font-size: large;
+    }
+
+    nav ul li a {
+        font-size: large;
+    }
+
+    nav ul {
+        margin-left: 12rem;
+    }
+
+    .logo {
+        margin-left: 6rem;
+    }
+}
+
+@media only screen and (min-width:499px) and (max-width:999px) {
+    
+    header{
+        width: 100rem;
+    }
+
+    .logo {
+        margin-left: 17rem;
+        width: 6rem;
+    }
+
+    #inside-box {
+        font-size: x-large;
+    }
+
+    #largesign{
+        font-size: x-large;
+    }
+
+    nav ul li a {
+        font-size: x-large;
+    }
+
+    nav ul {
+        margin-left: 11rem;
+    }
+
+    
+}
+
+@media only screen and (min-width:999px) and (max-width:1050px) {
+    
+    #inside-box {
+        font-size: larger;
+    }
+
+    #largesign{
+        font-size: larger;
+    }
+
+    nav ul li a {
+        font-size: larger;
+    }
+
+    
+
+    
+}
+
+@media only screen and (min-width:1049px) and (max-width:1220px) {
+        
+    
+    .logo {
+        margin-left: 7rem;
+        width: 6rem;
+    }
+    
+    nav ul {
+        height: 10vh;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        margin-left: 9.5rem;
+    }
+
+    #inside-box {
+        font-size: larger;
+    }
+    
+    #largesign{
+        font-size: larger;
+    }
+    
+    nav ul li a {
+        font-size: larger;
+    }
+    
+        
+}
+
+@media only screen and (min-width:999px) and (max-width:1049px) {
+    
+    nav ul {
+        height: 10vh;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        margin-left: 11rem;
+    }
+
+    .logo {
+        margin-left: 7rem;
+        width: 6rem;
+    }
+
+}
+
+@media only screen and (min-width:975px) and (max-width:999px) {
+    
+    nav ul {
+        margin-left: 6rem;
+    }
+
+    
+}
+
+
+@media only screen and (min-width:500px) and (max-width:1265px) {
+    
+    .searchbox {
+        margin: 3.5px 0vh 0vh 4vw;
+    }
+}
+
+@media only screen and (min-width:255px) and (max-width:499px) {
+    
+    header{
+        height: 21.9rem;
+        width: 85rem;
+    }
+
+    #inside-box {
+        font-size: x-large;
+    }
+
+    #largesign{
+        font-size: x-large;
+    }
+
+    nav ul li a {
+        font-size: x-large;
+    }
+
+    .logo {
+        margin-left: 6rem;
+        width: 6rem;
+    }
+
+    nav ul {
+        height: 10vh;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        margin-left: 9rem;
+    }
+}
+
+
+@media only screen and (min-width:500px) and (max-width:877px) {
+    
+    input {
+        width: 15vw;
+    }
+
+    
+}
+
+

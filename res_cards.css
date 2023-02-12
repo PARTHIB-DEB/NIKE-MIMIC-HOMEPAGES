@@ -1,0 +1,1298 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@media only screen and (max-width:1240px) and (min-width:1200px) {
+    
+    .feature-cards {
+        margin-left: 119vh;
+    }
+
+    .feature-cards1 {
+        margin-left: 121vh;
+        line-height: 70px;
+    }
+
+    .feature-cards2 {
+        margin-left: 121vh;
+        margin-top: 12rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 37px;
+        margin-bottom: 5vh;
+    }
+
+    .R1-c1 {
+        margin-left: 26vw;
+        padding-right: 2vw;
+    }
+
+    .R1-cards{
+        justify-content: center;
+    }
+
+    .R1-btn {
+        margin: 21rem 12rem 0rem -61rem;
+    }
+
+    .R2-cards {
+        display: flex;
+        justify-content: center;
+        margin-top: 2vw;
+        height: 105vh;
+        width: 105vh;
+        margin-left: 38rem;
+    }
+
+    .R2-btn {
+        margin: 25rem 16rem 0rem -55rem;
+    }
+
+    .R2-card-btn {
+        width: 44vw;
+    }
+
+    .R2-desc {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: -9rem;
+    }
+
+    .R2-desc1, .R2-desc13 {
+        padding-right: 16rem;
+        margin-left: 4rem;
+    }
+
+    .R2-desc2, .R2-desc23 {
+        padding-right: 10rem;
+        margin-left: 6rem;
+    }
+
+    .R3-cards {
+        height: 96vh;
+        width: 102vh;
+        margin-left: 35rem;
+    }
+
+    .R3-desc {
+        margin-top: -12rem;
+        
+    }
+
+    .R3-desc1 {
+        padding-right: 18rem;
+        margin-left: -6.5rem;
+    }
+
+    .R3-desc2 {
+        padding-right: 0rem;
+        margin-left: -8rem;
+    }
+
+    .R3-btn {
+        margin: 20rem 12rem 0rem -48rem;
+    }
+
+    .R3-card-btn {
+        width: 37vw;
+    }
+
+    
+}
+
+
+@media only screen and (max-width:1200px) and (min-width:1130px) {
+    
+    .feature-cards {
+        margin-left: 129vh;
+    }
+
+    .feature-cards1 {
+        margin-left: 121vh;
+        line-height: 37px;
+    }
+
+    .R1-cards{
+        justify-content: center;
+    }
+
+    .R1-btn {
+        margin: 21rem 13rem 0rem -60rem;
+        justify-content: center;
+        display: flex;
+    }
+
+    .R1-card-btn {
+        padding-right: 7vh;
+    }
+
+    .R1-c1 {
+        margin-left: 40vw;
+        padding-right: 2vw;
+    }
+
+    .R2-cards {
+        height: 100vh;
+        width: 91vh;
+        margin-left: 40rem;
+    }
+
+    .R2-desc1, .R2-desc13 {
+        padding-right: 14rem;
+        margin-left: 17rem;
+    }
+
+    .R2-desc2, .R2-desc23 {
+        padding-right: 8rem;
+        margin-left: 4rem;
+    }
+
+    .R2-btn {
+        margin: 24rem 12rem 0rem -50rem;
+    }
+
+    .R2-card-btn {
+        width: 43vw;
+    }
+
+    .R3-cards {
+        height: 96vh;
+        width: 102vh;
+        margin-left: 35rem;
+    }
+
+    .R3-desc {
+        margin-top: -12rem;
+        
+    }
+
+    .R3-desc1 {
+        padding-right: 2rem;
+        margin-left: 0.5rem;
+    }
+
+    .R3-desc2 {
+        padding-right: 0rem;
+        margin-left: 7rem;
+    }
+
+    .R3-btn {
+        margin: 20rem 12rem 0rem -48rem;
+    }
+
+    .R3-card-btn {
+        width: 37vw;
+    }
+
+
+
+    
+}
+
+@media only screen and (max-width:1130px) and (min-width:1100px) {
+    
+    .feature-cards {
+        margin-left: 124vh;
+    }
+
+    .feature-cards1 {
+        margin-left: 115vh;
+        line-height: 32px;
+    }
+
+    .R1-cards{
+        justify-content: center;
+    }
+
+    .R1-btn {
+        margin: 21rem 13rem 0rem -59rem;
+        justify-content: center;
+        display: flex;
+    }
+
+    .R1-card-btn {
+        padding-right: 7vh;
+    }
+
+    .R1-c1 {
+        margin-left: 40vw;
+        padding-right: 2vw;
+    }
+
+    #body-bt-sign {
+        margin-left: 12px;
+    }
+
+    .R2-cards {
+        height: 100vh;
+        width: 91vh;
+        margin-left: 40rem;
+    }
+
+    .R2-desc1, .R2-desc13 {
+        padding-right: 11rem;
+        margin-left: 21rem;
+    }
+
+    .R2-desc2, .R2-desc23 {
+        padding-right: 7rem;
+        margin-left: 4rem;
+    }
+
+    .R2-btn {
+        margin: 24rem 12rem 0rem -50rem;
+    }
+
+    .R2-card-btn {
+        width: 43vw;
+    }
+
+    .R3-cards {
+        height: 95vh;
+        width: 95vh;
+        margin-left: 39rem;
+    }
+
+    .R3-desc {
+        margin-top: -12rem;
+        
+    }
+
+    .R3-desc1 {
+        padding-right: 14rem;
+        margin-left: 8rem;
+        margin-right: -62rem;
+    }
+
+    .R3-desc2 {
+        padding-right: -12rem;
+        margin-left: 3rem;
+    }
+
+    .R3-btn {
+        margin: 20rem 9rem 0rem -48rem;
+    }
+
+    .R3-card-btn {
+        width: 44vw;
+        padding-right: 0vh;
+    }
+
+    
+}
+
+@media only screen and (max-width:1100px) and (min-width:1050px) {
+    
+    .feature-cards {
+        margin-left: 121vh;
+    }
+
+    .feature-cards1 {
+        margin-left: 115vh;
+        line-height: 32px;
+    }
+
+    .R1-cards{
+        justify-content: center;
+    }
+
+    .R1-card-btn {
+        padding-right: 7vh;
+        padding-left: 4vh;
+    }
+
+    #body-bt-sign {
+        margin-left: 12px;
+    }
+
+    .R1-btn {
+        margin: 18rem 14rem 0rem -63rem;
+        justify-content: center;
+        display: flex;
+    }
+
+    .R1-commoncards, .R1-card-btn {
+        width: 31vw;
+        padding-right: 2vh;
+    }
+
+    .R1-c1 {
+        margin-left: 45vw;
+        padding-right: 2vw;
+    }
+
+    .R2-cards {
+        height: 100vh;
+        width: 105vh;
+        margin-left: 34rem;
+    }
+
+    .R2-desc1, .R2-desc13 {
+        padding-right: 7rem;
+        margin-left: 16rem;
+    }
+
+    .R2-desc2, .R2-desc23 {
+        padding-right: 4rem;
+        margin-left: 0rem;
+        padding-left: 24vh;
+    }
+
+    .R2-btn {
+        margin: 24rem 12rem 0rem -50rem;
+    }
+
+    .R2-card-btn {
+        width: 43vw;
+    }
+
+    .R2-desc {
+        margin-top: -9rem;
+    }
+
+    .R3-cards {
+        height: 95vh;
+        width: 95vh;
+        margin-left: 36rem;
+    }
+
+    .R3-desc {
+        margin-top: -12rem;
+        
+    }
+
+    .R3-desc1 {
+        padding-right: 14rem;
+        margin-left: 8rem;
+        margin-right: -62rem;
+    }
+
+    .R3-desc2 {
+        padding-right: -12rem;
+        margin-left: 3rem;
+    }
+
+    .R3-btn {
+        margin: 20rem 9rem 0rem -48rem;
+    }
+
+    .R3-card-btn {
+        width: 44vw;
+        padding-right: 0vh;
+    }
+
+    
+}
+
+@media only screen and (max-width:1050px) and (min-width:999px) {
+    
+    .feature-cards {
+        margin-left: 126vh;
+    }
+
+    .feature-cards1 {
+        margin-left: 115vh;
+        line-height: 32px;
+    }
+
+    .R1-card-btn {
+        padding-right: 2vh;
+        padding-left: 2vh;
+    }
+
+    .R1-cards {
+        justify-content: center;
+    }
+
+    #body-bt-sign {
+        margin-left: 82px;
+    }
+
+    .R1-btn {
+        margin: 15rem 13rem 0rem -54rem;
+        justify-content: center;
+        display: flex;
+    }
+
+    .R1-commoncards, .R1-card-btn {
+        width: 28vw;
+        padding-right: 3vh;
+    }
+
+    .R1-c1 {
+        margin-left: 49vw;
+        padding-right: 2vw;
+    }
+
+    .R2-cards {
+        height: 100vh;
+        width: 105vh;
+        margin-left: 34rem;
+    }
+
+    .R2-desc1, .R2-desc13 {
+        padding-right: 7rem;
+        margin-left: 18rem;
+    }
+
+    .R2-desc2, .R2-desc23 {
+        padding-right: 4rem;
+        margin-left: 0rem;
+        padding-left: 24vh;
+    }
+
+    .R2-btn {
+        margin: 24rem 12rem 0rem -50rem;
+    }
+
+    .R2-card-btn {
+        width: 43vw;
+    }
+
+    .R2-desc {
+        margin-top: -9rem;
+    }
+
+    .R3-cards {
+        height: 95vh;
+        width: 95vh;
+        margin-left: 36rem;
+    }
+
+    .R3-desc {
+        margin-top: -12rem;
+        
+    }
+
+    .R3-desc1 {
+        padding-right: 11rem;
+        margin-left: 13rem;
+        margin-right: -62rem;
+    }
+
+    .R3-desc2 {
+        padding-right: -12rem;
+        margin-left: 3rem;
+    }
+
+    .R3-btn {
+        margin: 20rem 12rem 0rem -52rem;
+    }
+
+    .R3-card-btn {
+        width: 44vw;
+        padding-right: 0vh;
+    }
+    
+}
+
+
+@media only screen and (max-width:999px) and (min-width:970px) {
+    
+    .feature-cards {
+        margin-left: 70vh;
+    }
+
+    .feature-cards1 {
+        margin-left: 98vh;
+        line-height: 32px;
+    }
+
+    .R1-card-btn {
+        padding-right: 2vh;
+        padding-left: 2vh;
+    }
+
+    .R1-cards {
+        justify-content: center;
+    }
+
+    .R1-c1 {
+        margin-left: 98vw;
+        padding-right: 2vw;
+    }
+
+    #body-bt-sign {
+        margin-left: 82px;
+    }
+
+    .R1-btn {
+        margin: 18rem 13rem 0rem -62rem;
+        justify-content: center;
+        display: flex;
+    }
+
+    .R1-commoncards, .R1-card-btn {
+        width: 34vw;
+        padding-right: 3vh;
+    }
+
+    .R2-cards {
+        height: 100vh;
+        width: 105vh;
+        margin-left: 41rem;
+    }
+
+    .R2-desc1, .R2-desc13 {
+        padding-right: 7rem;
+        /* margin-left: 18rem; */
+    }
+
+    .R2-desc2, .R2-desc23 {
+        padding-right: 0rem;
+        margin-left: 0rem;
+        padding-left: 24vh;
+        margin-right: -86vh;
+    }
+
+    .R2-btn {
+        margin: 24rem 12rem 0rem -50rem;
+    }
+
+    .R2-card-btn {
+        width: 43vw;
+    }
+
+    .R2-desc {
+        margin-top: -9rem;
+    }
+
+    .R3-cards {
+        height: 99vh;
+        width: 98vh;
+        margin-left: 52rem;
+    }
+
+    .R3-desc {
+        margin-top: -12rem;
+        
+    }
+
+    .R3-desc1 {
+        padding-right: 10rem;
+        margin-left: 35rem;
+        margin-right: -62rem;
+    }
+
+    .R3-desc2 {
+        padding-right: -12rem;
+        margin-left: 3rem;
+    }
+
+    .R3-btn {
+        margin: 21rem 12rem 0rem -52rem;
+    }
+
+    .R3-card-btn {
+        width: 50vw;
+        padding-right: 19vh;
+    }
+    
+}
+
+@media only screen and (max-width:970px) and (min-width:951px) {
+    
+    .feature-cards {
+        margin-left: 49rem;
+    }
+
+    .feature-cards1 {
+        margin-left: 98vh;
+        line-height: 32px;
+    }
+
+    .R1-card-btn {
+        padding-left: 2vh;
+    }
+
+    .R1-cards {
+        justify-content: center;
+    }
+
+    .R1-c1 {
+        margin-left: 87vw;
+        padding-right: 2vw;
+    }
+
+    #body-bt-sign {
+        margin-left: 82px;
+    }
+
+    .R1-btn {
+        margin: 19rem 3rem 0rem -63rem;
+        justify-content: center;
+        display: flex;
+    }
+
+    .R1-commoncards, .R1-card-btn {
+        width: 36vw;
+        padding-right: 3vh;
+    }
+
+    .R2-cards {
+        height: 102vh;
+        width: 105vh;
+        margin-left: 43rem;
+    }
+
+    .R2-desc {
+        margin-top: -10rem;
+    }
+
+    .R2-desc1, .R2-desc13 {
+        padding-right: 7rem;
+        /* margin-left: 18rem; */
+    }
+
+    .R2-desc2, .R2-desc23 {
+        padding-right: 0rem;
+        margin-left: 0rem;
+        padding-left: 24vh;
+        margin-right: -112vh;
+    }
+
+    .R2-btn {
+        margin: 24rem 12rem 0rem -50rem;
+    }
+
+    .R2-card-btn {
+        width: 43vw;
+    }
+
+    .R2-desc {
+        margin-top: -10rem;
+    }
+
+    .R3-cards {
+        height: 99vh;
+        width: 98vh;
+        margin-left: 52rem;
+    }
+
+    .R3-desc {
+        margin-top: -12rem;
+        
+    }
+
+    .R3-desc1 {
+        padding-right: 10rem;
+        margin-left: 35rem;
+        margin-right: -62rem;
+    }
+
+    .R3-desc2 {
+        padding-right: -12rem;
+        margin-left: 3rem;
+    }
+
+    .R3-btn {
+        margin: 21rem 12rem 0rem -52rem;
+    }
+
+    .R3-card-btn {
+        width: 50vw;
+        padding-right: 19vh;
+    }
+
+    
+}
+
+@media only screen and (width:950px) {
+    
+    .feature-cards {
+        margin-left: 65vh;
+    }
+
+    .feature-cards1 {
+        margin-left: 98vh;
+        line-height: 32px;
+    }
+
+    .R1-commoncards, .R1-card-btn {
+        width: 33vw;
+        padding-right: 3vh;
+    }
+
+    #body-bt-sign {
+        margin-left: 82px;
+    }
+
+    .R1-btn {
+        margin: 17rem 10rem 0rem -64rem;
+    }
+
+    .R1-c1 {
+        margin-left: 82vw;
+        padding-right: 2vw;
+    }
+
+    .R2-cards {
+        height: 102vh;
+        width: 105vh;
+        margin-left: 43rem;
+    }
+
+    .R2-desc {
+        margin-top: -10rem;
+    }
+
+    .R2-desc1, .R2-desc13 {
+        padding-right: 7rem;
+        /* margin-left: 18rem; */
+    }
+
+    .R2-desc2, .R2-desc23 {
+        padding-right: 0rem;
+        margin-left: 0rem;
+        padding-left: 24vh;
+        margin-right: -112vh;
+    }
+
+    .R2-btn {
+        margin: 24rem 12rem 0rem -50rem;
+    }
+
+    .R2-card-btn {
+        width: 43vw;
+    }
+
+    .R2-desc {
+        margin-top: -10rem;
+    }
+
+    .R3-cards {
+        height: 99vh;
+        width: 98vh;
+        margin-left: 52rem;
+    }
+
+    .R3-desc {
+        margin-top: -12rem;
+        
+    }
+
+    .R3-desc1 {
+        padding-right: 10rem;
+        margin-left: 40rem;
+        margin-right: -62rem;
+    }
+
+    .R3-desc2 {
+        padding-right: -12rem;
+        margin-left: 3rem;
+    }
+
+    .R3-btn {
+        margin: 21rem 12rem 0rem -52rem;
+    }
+
+    .R3-card-btn {
+        width: 50vw;
+        padding-right: 19vh;
+    }
+    
+}
+
+
+@media only screen and (max-width:950px) and (min-width:930px) {
+    
+    .feature-cards {
+        margin-left: 65vh;
+    }
+
+    .feature-cards1 {
+        margin-left: 98vh;
+        line-height: 32px;
+    }
+
+    .R1-c1 {
+        margin-left: 31vw;
+        padding-right: 2vw;
+    }
+
+    .R1-commoncards, .R1-card-btn {
+        width: 33vw;
+        padding-right: 3vh;
+    }
+
+    #body-bt-sign {
+        margin-left: 82px;
+    }
+
+    .R1-btn {
+        margin: 16rem 10rem 0rem -56rem;
+    }
+
+    .R2-cards {
+        height: 102vh;
+        width: 105vh;
+        margin-left: 43rem;
+    }
+
+    .R2-desc {
+        margin-top: -10rem;
+    }
+
+    .R2-desc1, .R2-desc13 {
+        padding-right: 7rem;
+        /* margin-left: 18rem; */
+    }
+
+    .R2-desc2, .R2-desc23 {
+        padding-right: 0rem;
+        margin-left: 0rem;
+        padding-left: 22vh;
+        margin-right: -120vh;
+    }
+
+    .R2-btn {
+        margin: 24rem 12rem 0rem -50rem;
+    }
+
+    .R2-card-btn {
+        width: 43vw;
+    }
+
+    .R2-desc {
+        margin-top: -10rem;
+    }
+
+    .R3-cards {
+        height: 99vh;
+        width: 98vh;
+        margin-left: 52rem;
+    }
+
+    .R3-desc {
+        margin-top: -12rem;
+        
+    }
+
+    .R3-desc1 {
+        padding-right: 10rem;
+        margin-left: 40rem;
+        margin-right: -62rem;
+    }
+
+    .R3-desc2 {
+        padding-right: -12rem;
+        margin-left: 3rem;
+    }
+
+    .R3-btn {
+        margin: 21rem 12rem 0rem -52rem;
+    }
+
+    .R3-card-btn {
+        width: 50vw;
+        padding-right: 19vh;
+    }
+    
+
+    
+}
+
+@media only screen and (max-width:930px) and (min-width:900px) {
+    
+    .feature-cards {
+        margin-left: 76vh;
+    }
+
+    .feature-cards1 {
+        margin-left: 98vh;
+        line-height: 32px;
+    }
+
+    .R1-c1 {
+        margin-left: 39vw;
+        padding-right: 2vw;
+    }
+
+    .R1-commoncards, .R1-card-btn {
+        width: 30vw;
+        padding-right: 3vh;
+    }
+
+    #body-bt-sign {
+        margin-left: 82px;
+    }
+
+    .R1-btn {
+        margin: 15rem 12rem 0rem -51rem;
+    }
+
+    .R2-cards {
+        height: 102vh;
+        width: 105vh;
+        margin-left: 43rem;
+    }
+
+    .R2-desc {
+        margin-top: -10rem;
+    }
+
+    .R2-desc1, .R2-desc13 {
+        padding-right: 7rem;
+        /* margin-left: 18rem; */
+    }
+
+    .R2-desc2, .R2-desc23 {
+        padding-right: 0rem;
+        margin-left: 0rem;
+        padding-left: 22vh;
+        margin-right: -134vh;
+    }
+
+    .R2-btn {
+        margin: 24rem 12rem 0rem -50rem;
+    }
+
+    .R2-card-btn {
+        width: 43vw;
+    }
+
+    .R2-desc {
+        margin-top: -10rem;
+    }
+
+    .R3-cards {
+        height: 99vh;
+        width: 98vh;
+        margin-left: 52rem;
+    }
+
+    .R3-desc {
+        margin-top: -12rem;
+        
+    }
+
+    .R3-desc1 {
+        padding-right: 10rem;
+        margin-left: 40rem;
+        margin-right: -62rem;
+    }
+
+    .R3-desc2 {
+        padding-right: -12rem;
+        margin-left: 3rem;
+    }
+
+    .R3-btn {
+        margin: 21rem 12rem 0rem -52rem;
+    }
+
+    .R3-card-btn {
+        width: 50vw;
+        padding-right: 19vh;
+    }
+
+    
+}
+
+@media only screen and (max-width:900px) and (min-width:850px) {
+    
+    .feature-cards {
+        margin-left: 165vh;
+        margin-right: -10rem;
+    }
+
+    .feature-cards1 {
+        margin-left: 98vh;
+        line-height: 32px;
+    }
+
+    .R1-c1 {
+        margin-left: 31vw;
+        padding-right: 2vw;
+    }
+
+    .R1-commoncards, .R1-card-btn {
+        width: 39vw;
+        padding-right: 3vh;
+    }
+
+    #body-bt-sign {
+        margin-left: 40px;
+    }
+
+    .R1-btn {
+        margin: 19rem 12rem 0rem -61rem;
+    }
+
+    .R2-cards {
+        height: 102vh;
+        width: 105vh;
+        margin-left: 43rem;
+    }
+
+    .R2-desc {
+        margin-top: -10rem;
+    }
+
+    .R2-desc1, .R2-desc13 {
+        padding-right: 7rem;
+        /* margin-left: 18rem; */
+    }
+
+    .R2-desc2, .R2-desc23 {
+        padding-right: 0rem;
+        margin-left: 0rem;
+        padding-left: 22vh;
+        margin-right: -136vh;
+    }
+
+    .R2-btn {
+        margin: 24rem 12rem 0rem -50rem;
+    }
+
+    .R2-card-btn {
+        width: 43vw;
+    }
+
+    .R2-desc {
+        margin-top: -10rem;
+    }
+
+    .R3-cards {
+        height: 99vh;
+        width: 98vh;
+        margin-left: 52rem;
+    }
+
+    .R3-desc {
+        margin-top: -12rem;
+        
+    }
+
+    .R3-desc1 {
+        padding-right: 10rem;
+        margin-left: 46rem;
+        margin-right: -62rem;
+    }
+
+    .R3-desc2 {
+        padding-right: -12rem;
+        margin-left: 3rem;
+    }
+
+    .R3-btn {
+        margin: 21rem 12rem 0rem -52rem;
+    }
+
+    .R3-card-btn {
+        width: 50vw;
+        padding-right: 19vh;
+    }
+
+    
+}
+
+
+@media only screen and (max-width:850px) and (min-width:800px) {
+    
+    .feature-cards {
+        margin-left: 86vh;
+    }
+
+    .feature-cards1 {
+        margin-left: 100vh;
+        line-height: 34px;
+    }
+
+    .R1-c1 {
+        margin-left: 40vw;
+        padding-right: 2vw;
+    }
+
+    .R1-commoncards, .R1-card-btn {
+        width: 39vw;
+        padding-right: 3vh;
+    }
+
+    #body-bt-sign {
+        margin-left: 115px;
+    }
+
+    .R1-btn {
+        margin: 16rem 12rem 0rem -61rem;
+    }
+    
+
+    .R2-cards {
+        height: 102vh;
+        width: 105vh;
+        margin-left: 43rem;
+    }
+
+    .R2-desc {
+        margin-top: -10rem;
+    }
+
+    .R2-desc1, .R2-desc13 {
+        padding-right: 7rem;
+        /* margin-left: 18rem; */
+    }
+
+    .R2-desc2, .R2-desc23 {
+        padding-right: 0rem;
+        margin-left: 0rem;
+        padding-left: 22vh;
+        margin-right: -159vh;
+    }
+
+    .R2-btn {
+        margin: 24rem 12rem 0rem -55rem;
+    }
+
+    .R2-card-btn {
+        width: 43vw;
+        padding-left: 17vh;
+    }
+
+    .R2-desc {
+        margin-top: -10rem;
+        font-size: xx-large;
+        font-family: Arial, Helvetica, sans-serif;
+        color: whitesmoke;
+        font-weight: 500;
+    }
+
+    .R3-cards {
+        height: 99vh;
+        width: 111vh;
+        margin-left: 49rem;
+    }
+
+    .R3-desc {
+        margin-top: -12rem;
+        margin-bottom: 15rem;
+    }
+
+    .R3-desc1 {
+        padding-right: 10rem;
+        margin-left: 49rem;
+        margin-right: -59rem;
+    }
+
+    .R3-desc2 {
+        padding-right: -12rem;
+        margin-left: 3rem;
+    }
+
+    .R3-btn {
+        display: flex;
+        margin-top: 1rem;
+    }
+
+    .R3-card-btn {
+        width: 50vw;
+        padding-right: 19vh;
+    }
+
+}
+
+
+@media only screen and (max-width:1198px) and (min-width:999px) {
+    
+    .feature-cards3 {
+        margin-left: 37vh;
+    }
+
+    #F3{
+        margin-left: 9rem;
+        margin-right: -137px;
+    }
+
+    #F3-commoncards{
+        width: 18rem;
+    }
+
+    .R4-btn {
+        display: flex;
+        margin: 7rem -9rem 0rem -45rem;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .R4-card-btn {
+        width: 29vw;
+        /* padding-right: 2vh; */
+    }
+
+    #body-bt-sign4 {
+        margin-left: 21px;
+    }
+}
+
+@media only screen and (max-width:999px) and (min-width:850px) {
+    
+    .feature-cards3 {
+        margin-left: 74vh;
+    }
+
+    #F3{
+        margin-left: 20rem;
+        margin-right: -326px;
+    }
+
+    #F3-commoncards{
+        width: 19rem;
+    }
+
+    #btn-F3{
+        margin: 12rem -33rem 0rem -33rem;
+    }
+
+    .R4-card-btn {
+        width: 34vw;
+    }
+
+    
+}
+
+
+
+@media only screen and (max-width:850px) and (min-width:800px) {
+    
+    .feature-cards3 {
+        margin-left: 74vh;
+    }
+
+    #F3 {
+        margin-left: 21rem;
+        margin-right: -326px;
+    }
+
+    #F3-commoncards{
+        width: 19rem;
+    }
+
+    #btn-F3{
+        margin: 12rem 12rem 0rem -34rem;
+    }
+
+    .R4-card-btn {
+        width: 37vw;
+    }
+
+    .R3-cards {
+        height: 99vh;
+        width: 111vh;
+        margin-left: 47rem;
+    }
+
+    .R3-btn {
+        margin: 21rem 12rem 0rem -51rem;
+    }
+
+    .R3-card-btn {
+        width: 50vw;
+        padding-right: 19vh;
+    }
+
+    
+}
+

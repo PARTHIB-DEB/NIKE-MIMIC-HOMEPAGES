@@ -1,0 +1,542 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@media only screen and (max-width:1265px) and (min-width:1240px) {
+    
+    .SLIDER1 {
+        width: 93%;
+        margin: 0vh 2vh 0vh 11vh;
+    }
+
+    
+}
+
+@media only screen and (max-width:1240px) and (min-width:1220px) {
+    
+    .SLIDER1 {
+        width: 93%;
+        margin: 0vh 6vh 0vh 14vh;
+    }
+
+    #slide2{
+        width: 81%;
+        margin: 0vh 6vh 0vh 6vh;
+    }
+
+    
+}
+
+
+@media only screen and (max-width:1220px) and (min-width:1200px) {
+    
+    .SLIDER1 {
+        width: 93%;
+        margin: 0vh 6vh 0vh 22vh;
+    }
+
+    #slide2{
+        width: 81%;
+        margin: 0vh 6vh 0vh 14vh;
+    }
+
+    
+}
+
+@media only screen and (max-width:1200px) and (min-width:1170px) {
+    
+    .SLIDER1 {
+        width: 93%;
+        margin: 0vh 20vh 0vh 37vh;
+    }
+
+    #slide2{
+        width: 79%;
+        margin: 0vh 6vh 0vh 24vh;
+    }
+
+    .feature-cards2 {
+        margin-left: 126vh;
+        margin-top: 11rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 37px;
+        margin-bottom: 5vh;
+    }
+
+    
+}
+
+@media only screen and (max-width:1170px) and (min-width:1150px) {
+    
+    .SLIDER1 {
+        width: 93%;
+        margin: 0vh 2vh 0vh 21vh;
+    }
+
+    #slide2{
+        width: 79%;
+        margin: 0vh 6vh 0vh 24vh;
+    }
+
+    .feature-cards2 {
+        margin-left: 126vh;
+        margin-top: 11rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 37px;
+        margin-bottom: 5vh;
+    }
+
+    
+}
+
+@media only screen and (max-width:1150px) and (min-width:1130px) {
+    
+    .SLIDER1 {
+        width: 100%;
+        margin: 0vh 33vh 0vh 16rem;
+    }
+
+    #slide2{
+        width: 83%;
+        margin: 0vh 6vh 0vh 45vh;
+    }
+
+    .feature-cards2 {
+        margin-left: 126vh;
+        margin-top: 11rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 37px;
+        margin-bottom: 5vh;
+    }
+
+    
+}
+
+@media only screen and (max-width:1130px) and (min-width:1100px) {
+    
+    .SLIDER1 {
+        width: 97%;
+        margin: 0vh 3vh 0vh 32vh;
+    }
+
+    #slide2{
+        width: 83%;
+        margin: 0vh 6vh 0vh 45vh;
+    }
+
+    .feature-cards2 {
+        margin-left: 126vh;
+        margin-top: 11rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 37px;
+        margin-bottom: 5vh;
+    }
+
+    
+}
+
+@media only screen and (max-width:1130px) and (min-width:1094px) {
+    
+    .SLIDER1 {
+        width: 97%;
+        margin: 0vh 3vh 0vh 32vh;
+    }
+
+    #slide2{
+        width: 83%;
+        margin: 0vh 6vh 0vh 45vh;
+    }
+
+    .feature-cards2 {
+        margin-left: 126vh;
+        margin-top: 11rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 37px;
+        margin-bottom: 5vh;
+    }
+
+    
+}
+
+
+@media only screen and (max-width:1094px) and (min-width:1080px) {
+    
+    .SLIDER1 {
+        width: 100%;
+        margin: 0vh 3vh 0vh 36vh;
+    }
+
+    #slide2{
+        width: 83%;
+        margin: 0vh 6vh 0vh 45vh;
+    }
+
+    .feature-cards2 {
+        margin-left: 126vh;
+        margin-top: 11rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 37px;
+        margin-bottom: 5vh;
+    }
+
+    
+}
+
+@media only screen and (max-width:1080px) and (min-width:1070px) {
+    
+    .SLIDER1 {
+        width: 98%;
+        margin: 0vh 4vh 0vh 39vh;
+    }
+
+    #slide2{
+        width: 83%;
+        margin: 0vh 6vh 0vh 45vh;
+    }
+
+    .feature-cards2 {
+        margin-left: 126vh;
+        margin-top: 11rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 37px;
+        margin-bottom: 5vh;
+    }
+
+    
+}
+
+@media only screen and (max-width:1070px) and (min-width:1049px) {
+    
+    .SLIDER1 {
+        width: 100%;
+        margin: 0vh 4vh 0vh 43vh;
+    }
+
+    #slide2{
+        width: 83%;
+        margin: 0vh 6vh 0vh 45vh;
+    }
+
+    .feature-cards2 {
+        margin-left: 126vh;
+        margin-top: 11rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 37px;
+        margin-bottom: 5vh;
+    }
+
+    
+}
+
+@media only screen and (max-width:1049px) and (min-width:1038px) {
+    
+    .SLIDER1 {
+        width: 92%;
+        margin: 0vh 1vh 0vh 43vh;
+    }
+
+    #slide2{
+        width: 84%;
+        margin: 0vh 6vh 0vh 56vh;
+    }
+
+    .feature-cards2 {
+        margin-left: 126vh;
+        margin-top: 11rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 37px;
+        margin-bottom: 5vh;
+    }
+
+    
+}
+@media only screen and (max-width:1038px) and (min-width:1026px) {
+    
+    .SLIDER1 {
+        width: 101%;
+        margin: 0vh 1vh 0vh 46vh;
+    }
+
+    #slide2{
+        width: 83%;
+        margin: 0vh 6vh 0vh 45vh;
+    }
+
+    .feature-cards2 {
+        margin-left: 126vh;
+        margin-top: 11rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 37px;
+        margin-bottom: 5vh;
+    }
+    
+}
+
+@media only screen and (max-width:1026px) and (min-width:1019px) {
+    
+    .SLIDER1 {
+        width: 95%;
+        margin: 0vh 3vh 0vh 54vh;
+    }
+
+    #slide2{
+        width: 90%;
+        margin: 0vh 6vh 0vh 69vh;
+    }
+
+    .feature-cards2 {
+        margin-left: 126vh;
+        margin-top: 11rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 37px;
+        margin-bottom: 5vh;
+    }
+
+    
+}
+
+@media only screen and (max-width:1019px) and (min-width:998px) {
+    
+    .SLIDER1 {
+        width: 95%;
+        margin: 0vh 1vh 0vh 51vh;
+    }
+
+    #slide2{
+        width: 90%;
+        margin: 0vh 6vh 0vh 75vh;
+    }
+
+    .feature-cards2 {
+        margin-left: 131vh;
+        margin-top: 11rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 37px;
+        margin-bottom: 5vh;
+    }
+    
+}
+
+@media only screen and (max-width:998px) and (min-width:940px) {
+    
+    .SLIDER1 {
+        width: 111%;
+        margin: 0vh 0vh 0vh 136vh;
+    }
+
+    #slide2{
+        width: 103%;
+        margin: 0vh 15vh 0vh 156vh;
+    }
+
+    .feature-cards2 {
+        margin-left: 157vh;
+        margin-top: 11rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 37px;
+        margin-bottom: 5vh;
+    }
+
+    
+}
+
+@media only screen and (max-width:940px) and (min-width:920px) {
+    
+    .SLIDER1 {
+        margin: 0vh 7vh 0vh 146vh;
+        width: 109%;
+    }
+
+    #slide2 {
+        width: 100%;
+        margin: 0vh 6vh 0vh 153vh;
+    }
+
+    .feature-cards2 {
+        margin-left: 157vh;
+        margin-top: 11rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 37px;
+        margin-bottom: 5vh;
+    }
+
+    
+}
+
+@media only screen and (max-width:920px) and (min-width:900px) {
+    
+    .SLIDER1 {
+        margin: 0vh 3vh 0vh 140vh;
+        width: 112%;
+    }
+
+    #slide2{
+        width: 103%;
+        margin: 0vh 0vh 0vh 156vh;
+    }
+
+    .feature-cards2 {
+        margin-left: 157vh;
+        margin-top: 11rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 37px;
+        margin-bottom: 5vh;
+    }
+
+    
+}
+
+@media only screen and (max-width:900px) and (min-width:855px) {
+
+    .SLIDER1 {
+        width: 127%;
+        margin: 0vh 15vh 0vh 181vh;
+    }
+
+    #slide2{
+        width: 115%;
+        margin: 0vh 0vh 0vh 186vh;
+    }
+
+    .feature-cards2 {
+        margin-left: 157vh;
+        margin-top: 11rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 37px;
+        margin-bottom: 5vh;
+    }
+    
+}
+
+
+@media only screen and (max-width:855px) and (min-width:800px) {
+    
+    .SLIDER1 {
+        width: 141%;
+        margin: 0vh 15vh 7vh 194vh;
+    }
+
+    #slide2 {
+        width: 115%;
+        margin: 0vh 11vh 0vh 186vh;
+    }
+
+    .feature-cards2 {
+        margin-left: 166vh;
+        margin-top: 10rem;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 35px;
+        margin-bottom: 3vh;
+        margin-right: -45rem;
+    }
+    
+
+    
+
+    
+}
+
+@media only screen and (max-width:800px) and (min-width:700px) {
+    
+    .SLIDER1 {
+        width: 144%;
+        margin: 0vh 44vh 0vh 222vh;
+    }
+
+    
+}
+
+@media only screen and (max-width:700px) and (min-width:600px) {
+    
+    .SLIDER1 {
+        width: 192%;
+        margin: 0vh 63vh 0vh 257vh;
+    }
+
+    
+
+    
+}
+@media only screen and (max-width:600px) and (min-width:500px) {
+    
+    .SLIDER1 {
+        width: 226%;
+        margin: 0vh 63vh 0vh 286vh;
+    }
+
+    
+
+    
+}
+@media only screen and (max-width:500px) and (min-width:400px) {
+    
+    .SLIDER1 {
+        width: 226%;
+        margin: 0vh 63vh 0vh 286vh;
+    }
+
+    
+
+    
+}
+
+@media only screen and (max-width:400px) and (min-width:300px) {
+    
+    .SLIDER1 {
+        width: 226%;
+        margin: 0vh 63vh 0vh 286vh;
+    }
+
+    
+
+    
+}
+
+@media only screen and (max-width:300px) and (min-width:200px) {
+    
+    .SLIDER1 {
+        width: 226%;
+        margin: 0vh 63vh 0vh 286vh;-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 37px;
+        margin-bottom: 5vh;
+    }
+
+    
+}

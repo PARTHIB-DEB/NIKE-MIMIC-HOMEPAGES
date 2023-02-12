@@ -1,0 +1,240 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@media only screen and (min-width:800px) and (max-width:900px) {
+   
+    #men-desc-small{
+        margin: 0vh -31rem 0vh 21.8rem;
+    }
+
+    #women-desc-small{
+        margin: -44vh 0rem 20vh 29.8rem;
+        font-size: xxx-large;
+        font-weight: 800;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: aliceblue;
+    }
+    
+    #men-desc-large{
+        margin: 0vh -38rem 0vh 18rem;
+    }
+
+    #men-desc-btn1{
+        margin: 2vh -70rem 0vh 43.9rem;
+    }
+
+    #body-bt-sign {
+        margin-left: 8px;
+    }
+
+    #banner{
+        margin: 14vh -30rem 7vh 47rem;
+    }
+
+    #women-card{
+        margin-top: -10rem;
+        font-size: xx-large;
+        font-family: Arial, Helvetica, sans-serif;
+        color: whitesmoke;
+        font-weight: 500;
+    }
+
+    .btn-woman{
+        margin: -5rem 0rem 26vh 32rem;
+    }
+}
+
+@media only screen and (min-width:900px) and (max-width:1000px) {
+
+    #men-desc-small{
+        margin: 0vh -31rem 0vh 17.8rem;
+    }
+    #women-desc-small{
+        margin: -44vh 0rem 20vh 29.8rem;
+        font-size: xxx-large;
+        font-weight: 800;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: aliceblue;
+    }
+    
+    #men-desc-large{
+        margin: 0vh -38rem 0vh 12rem;
+    }
+
+    #men-desc-btn1{
+        margin: 2vh -70rem 0vh 44rem;
+    }
+
+    #body-bt-sign {
+        margin-left: 8px;
+    }
+
+    #banner{
+        margin: 14vh -30rem 7vh 47rem;
+    }
+
+    #women-card{
+        margin-top: -10rem;
+        font-size: xx-large;
+        font-family: Arial, Helvetica, sans-serif;
+        color: whitesmoke;
+        font-weight: 500;
+    }
+
+    .btn-woman{
+        margin: -5rem 0rem 26vh 32rem;
+    }
+}
+
+@media only screen and (min-width:1000px) and (max-width:1100px) {
+    
+    #men-desc-small {
+        margin: 0vh -31rem 0vh -12.2rem;
+    }
+    #women-desc-small {
+        margin: -45vh 0rem 26vh 11.8rem;
+        font-size: xxx-large;
+        font-weight: 800;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: aliceblue;
+    }
+    
+    #men-desc-large{
+        margin: 0vh -38rem 0vh -15rem;
+    }
+
+    #men-desc-btn1{
+        margin: 2vh -70rem 0vh 34rem;
+    }
+
+    #body-bt-sign {
+        margin-left: 8px;
+    }
+
+    #banner{
+        margin: 14vh -30rem 7vh 32rem;
+    }
+
+    #women-card{
+        margin-top: -10rem;
+        font-size: xx-large;
+        font-family: Arial, Helvetica, sans-serif;
+        color: whitesmoke;
+        font-weight: 500;
+    }
+
+
+    .btn-woman{
+        margin: -7rem 0rem 26vh 14rem;
+    }
+}
+
+@media only screen and (min-width:1100px) and (max-width:1200px) {
+    
+
+    #men-desc-small {
+        margin: 0vh -31rem 0vh -18.2rem;
+    }
+    #women-desc-small {
+        margin: -45vh 0rem 26vh 11.8rem;
+        font-size: xxx-large;
+        font-weight: 800;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: aliceblue;
+    }
+    
+    #men-desc-large{
+        margin: 0vh -38rem 0vh -26rem;
+    }
+
+    #men-desc-btn1{
+        margin: 2vh -70rem 0vh 36rem;
+    }
+
+    #body-bt-sign {
+        margin-left: 8px;
+    }
+
+    #banner{
+        margin: 14vh -30rem 7vh 32rem;
+    }
+
+    #women-card{
+        margin-top: -10rem;
+        font-size: xx-large;
+        font-family: Arial, Helvetica, sans-serif;
+        color: whitesmoke;
+        font-weight: 500;
+    }
+
+    .btn-woman{
+        margin: -7rem 0rem 26vh 14rem;
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1240px) {
+
+    #men-desc-small {
+        margin: 0vh -31rem 0vh -18.2rem;
+    }
+    #women-desc-small {
+        margin: -45vh 0rem 26vh 11.8rem;
+        font-size: xxx-large;
+        font-weight: 800;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: aliceblue;
+    }
+    
+    #men-desc-large{
+        margin: 0vh -38rem 0vh -26rem;
+    }
+
+    #men-desc-btn1{
+        margin: 2vh -70rem 0vh 36rem;
+    }
+
+    #body-bt-sign {
+        margin-left: 8px;
+    }
+
+    #banner{
+        margin: 14vh -30rem 7vh 32rem;
+    }
+
+    #women-card{
+        margin-top: -10rem;
+        font-size: xx-large;
+        font-family: Arial, Helvetica, sans-serif;
+        color: whitesmoke;
+        font-weight: 500;
+    }
+
+    .btn-woman{
+        margin: -7rem 0rem 26vh 14rem;
+    }
+
+}
+
+
+@media only screen and (min-width:800px) and (max-width:950px) {
+    
+    #men-cards{
+        margin: 0vh -30rem 0vh 0rem;
+    }
+}
+
+@media only screen and (min-width:950px) and (max-width:1050px) {
+    
+    #men-cards{
+        margin: 0vh 10rem 0vh -7rem;
+    }
+}
+
+@media only screen and (min-width:1050px) and (max-width:1150px) {
+    
+    #men-cards{
+        margin: 0vh 10rem 0vh -7rem;
+    }
+}

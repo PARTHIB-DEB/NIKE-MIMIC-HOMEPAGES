@@ -1,0 +1,252 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@media only screen and (min-width:800px) and (max-width:900px) {
+    
+    #men-desc-small{
+        margin: 0vh -31rem 0vh 21.8rem;
+    }
+    
+    #men-desc-large{
+        margin: 0vh -38rem 0vh 18rem;
+    }
+
+    #men-desc-btn1{
+        margin: 2vh -70rem 0vh 45rem;
+    }
+
+    #body-bt-sign {
+        margin-left: 8px;
+    }
+
+    #banner{
+        margin: 14vh -30rem 7vh 47rem;
+    }
+}
+
+@media only screen and (min-width:900px) and (max-width:1000px) {
+    
+    #men-desc-small{
+        margin: 0vh -31rem 0vh 17.8rem;
+    }
+    
+    #men-desc-large{
+        margin: 0vh -38rem 0vh 12rem;
+    }
+
+    #men-desc-btn1{
+        margin: 2vh -70rem 0vh 44rem;
+    }
+
+    #body-bt-sign {
+        margin-left: 8px;
+    }
+
+    #banner{
+        margin: 14vh -30rem 7vh 47rem;
+    }
+
+}
+
+@media only screen and (min-width:1000px) and (max-width:1100px) {
+    
+    #men-desc-small {
+        margin: 0vh -31rem 0vh -12.2rem;
+    }
+    
+    #men-desc-large{
+        margin: 0vh -38rem 0vh -15rem;
+    }
+
+    #men-desc-btn1{
+        margin: 2vh -70rem 0vh 34rem;
+    }
+
+    #body-bt-sign {
+        margin-left: 8px;
+    }
+
+    #banner{
+        margin: 14vh -30rem 7vh 32rem;
+    }
+
+    .R4-btn {
+        display: flex;
+        margin: 11rem 1rem 0rem -66rem;
+    }
+
+    .R4-card-btn1 {
+        width: 27vw;
+        padding-left: 18vh;
+    }
+}
+
+@media only screen and (min-width:1100px) and (max-width:1200px) {
+    
+    #men-desc-small {
+        margin: 0vh -31rem 0vh -18.2rem;
+    }
+    
+    #men-desc-large{
+        margin: 0vh -38rem 0vh -26rem;
+    }
+
+    #men-desc-btn1{
+        margin: 2vh -70rem 0vh 36rem;
+    }
+
+    #body-bt-sign {
+        margin-left: 8px;
+    }
+
+    #banner{
+        margin: 14vh -30rem 7vh 32rem;
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1240px) {
+    
+    #men-desc-small {
+        margin: 0vh -31rem 0vh -18.2rem;
+    }
+    
+    #men-desc-large{
+        margin: 0vh -38rem 0vh -26rem;
+    }
+
+    #men-desc-btn1{
+        margin: 2vh -70rem 0vh 36rem;
+    }
+
+    #body-bt-sign {
+        margin-left: 8px;
+    }
+
+    #banner{
+        margin: 14vh -30rem 7vh 32rem;
+    }
+
+}
+
+
+@media only screen and (min-width:800px) and (max-width:950px) {
+    
+    #men-cards{
+        margin: 0vh -30rem 0vh 0rem;
+    }
+}
+
+@media only screen and (min-width:950px) and (max-width:1050px) {
+    
+    #men-cards{
+        margin: 0vh 10rem 0vh -7rem;
+    }
+}
+
+@media only screen and (min-width:1050px) and (max-width:1150px) {
+    
+    #men-cards{
+        margin: 0vh 10rem 0vh -7rem;
+    }
+}
+
+@media only screen and (min-width:1150px) and (max-width:1250px) {
+    
+    #men-cards{
+        margin: 0vh 10rem 0vh -7rem;
+    }
+}
+
+@media only screen and (min-width:800px) and (max-width:850px) {
+    
+    .R4-btn {
+        display: flex;
+        margin: 15rem 0rem 0rem -58rem;
+    }
+
+    .R4-card-btn1 {
+        width: 41vw;
+        padding-left: 0vh;
+    }
+
+    #body-bt-sign4 {
+        margin-left: -32px;
+    }
+}
+@media only screen and (min-width:851px) and (max-width:950px) {
+    
+    .R4-btn {
+        display: flex;
+        margin: 12rem 1rem 0rem -76rem;
+    }
+
+    .R4-card-btn1 {
+        width: 26vw;
+        padding-left: 18vh;
+    }
+
+    #body-bt-sign4 {
+        margin-left: 140px;
+        margin-right: -96rem;
+    }
+}
+@media only screen and (min-width:951px) and (max-width:1051px) {
+    
+    .R4-btn {
+        display: flex;
+        margin: 10rem 5rem 0rem -67rem;
+    }
+
+    .R4-card-btn1 {
+        width: 23vw;
+        padding-left: 16vh;
+    }
+
+    #body-bt-sign4 {
+        margin-left: 140px;
+        margin-right: -96rem;
+    }
+}
+
+@media only screen and (min-width:1052px) and (max-width:1152px) {
+    
+    .R4-btn {
+        display: flex;
+        margin: 10rem 5rem 0rem -78rem;
+    }
+
+    .R4-card-btn1 {
+        width: 26vw;
+        padding-left: 20vh;
+    }
+
+    #body-bt-sign4 {
+        margin-left: 138px;
+        margin-right: -96rem;
+    }
+}
+
+@media only screen and (min-width:1153px) and (max-width:1253px) {
+    
+    .R4-btn {
+        display: flex;
+        margin: 14rem 19rem 0rem -81rem;
+    }
+
+    .R4-card-btn1 {
+        width: 26vw;
+        padding-left: 8vh;
+    }
+
+    #body-bt-sign4 {
+        margin-left: 245px;
+        margin-right: -119rem;
+    }
+
+    .R1-c1 {
+        margin-left: 46vw;
+        padding-right: 2vw;
+    }
+}

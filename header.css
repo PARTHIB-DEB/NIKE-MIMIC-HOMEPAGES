@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color:white;
+    color: black;
+    height: 5vw;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    top: 0;
+    position: sticky;
+}
+
+.logo {
+    margin-left: 1rem;
+    height: 2rem;
+    width: 6rem;
+}
+
+.logo:hover {
+    cursor: pointer;
+}
+
+nav ul{
+    height: 10vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 19rem;
+}
+
+nav ul li{
+    list-style: none;
+    padding: 0 2vh;
+}
+nav ul li a{
+    color: black;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    padding: 0vh 6px;
+
+}
+
+nav ul li a:hover{
+    text-decoration: underline;
+}
+
+nav{
+    display: flex;
+}
+
+.searchbox{
+    margin: 12.5px 0vh 0vh 9vw;
+}
+
+#inside-box{
+    padding-left: 6vh;
+    padding-top: 1.5vh;
+    padding-bottom: 1.5vh;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 4rem;
+    border: 2px;
+}
+
+input{
+    width: 9vw;
+}
+
+.btn{
+    margin-top: 0vh;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn:hover{
+    cursor: pointer;
+}
+
+#bt-sign{
+    margin-right: 1vw;
+    margin-left: 3vw;
+    border-radius: 4rem;
+    border: 0px;
+    padding-top: 2.3vh;
+    padding-bottom: 2.3vh;
+    padding-right: 5vh;
+    padding-left: 5vh;
+    background-color: white;
+}
+
+.color-white{
+    text-decoration: none;
+    color: black;
+}
